@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "heroku": "^7.66.4"
+  },
+  "name": "project_mern_memories-part_1_and_2",
+  "description": "![Memories](https://i.ibb.co/Z8Y0CJv/Screenshot-2020-10-30-at-11-10-04.png)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
